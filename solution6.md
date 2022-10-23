@@ -50,8 +50,8 @@ initial connection time = 28.468 ms
 tps = 608.485229 (without initial connection time)
 
 ## построить график по получившимся значениям
-![alt text](images/6_1.png)
+![alt text](images/6-1.png)
 
 конфигурация autovacuum
-![alt text](images/6_2.png)
+![alt text](images/6-2.png)
 
